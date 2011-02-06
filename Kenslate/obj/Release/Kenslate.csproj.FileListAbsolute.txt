@@ -1,0 +1,7 @@
+C:\Documents and Settings\Kevin\Configuración local\Datos de programa\Temporary Projects\Kenslate\bin\Release\Kenslate.exe
+C:\Documents and Settings\Kevin\Configuración local\Datos de programa\Temporary Projects\Kenslate\bin\Release\Kenslate.pdb
+C:\Documents and Settings\Kevin\Configuración local\Datos de programa\Temporary Projects\Kenslate\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kevin\Configuración local\Datos de programa\Temporary Projects\Kenslate\obj\Release\Kenslate.Properties.Resources.resources
+C:\Documents and Settings\Kevin\Configuración local\Datos de programa\Temporary Projects\Kenslate\obj\Release\Kenslate.csproj.GenerateResource.Cache
+C:\Documents and Settings\Kevin\Configuración local\Datos de programa\Temporary Projects\Kenslate\obj\Release\Kenslate.exe
+C:\Documents and Settings\Kevin\Configuración local\Datos de programa\Temporary Projects\Kenslate\obj\Release\Kenslate.pdb
